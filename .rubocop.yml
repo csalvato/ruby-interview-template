@@ -6,3 +6,6 @@ Layout:
 
 Style:
   Enabled: false
+
+Metrics:
+  Enabled: false
